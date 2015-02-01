@@ -1,0 +1,8 @@
+{
+    "name": "shmeeps/php-acl",
+    "autoload": {
+        "psr-0" : {
+            "Shmeeps\\PHPAcl" : "src"
+        }
+    }
+}
